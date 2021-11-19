@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yasHesaplamaForm", "yasHesaplamaForm\yasHesaplamaForm.csproj", "{D605BDA6-9FD8-462E-A842-19D35B009697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D605BDA6-9FD8-462E-A842-19D35B009697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D605BDA6-9FD8-462E-A842-19D35B009697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D605BDA6-9FD8-462E-A842-19D35B009697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D605BDA6-9FD8-462E-A842-19D35B009697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33DA3670-62D8-4F92-BC4D-EF6436EABCA3}
+	EndGlobalSection
+EndGlobal
